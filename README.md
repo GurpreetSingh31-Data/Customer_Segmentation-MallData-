@@ -1,6 +1,8 @@
 # Customer_Segmentation-MallData-
-Jupyter Notebook Project
-![cluster](https://github.com/user-attachments/assets/0ed438e6-0a02-415d-9ae5-8eb83da8f65d)  
+Jupyter Notebook Project  
+
+![clusters](https://github.com/user-attachments/assets/4006a914-3ea1-494b-a9a7-a27602c62dda)
+
 
 ## Insights:  
 
