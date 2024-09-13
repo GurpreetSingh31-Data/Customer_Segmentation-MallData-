@@ -1,5 +1,9 @@
 # Customer_Segmentation-MallData-
-Jupyter Notebook Project  
+Jupyter Notebook Project    
+
+  ### Customer Segmentation:-
+This plot is useful for identifying different customer segments, which could inform marketing strategies, product offerings, or other business decisions. For instance, customers in Cluster 5 might be targeted for budget-friendly premium offerings, while those in Cluster 2 might be offered luxury products.  
+
 
 ![clusters](https://github.com/user-attachments/assets/4006a914-3ea1-494b-a9a7-a27602c62dda)  
 
@@ -22,6 +26,3 @@ Clusters 4 (Pink) and 5 (Cyan) have lower incomes, but Cluster 5 has higher spen
 
 ### Income and Spending Score Relationship:-  
 The clusters suggest that both high and low spending scores can be associated with both high and low incomes. This indicates that spending behavior might not be directly proportional to income.  
-
-### Customer Segmentation:-
-This plot is useful for identifying different customer segments, which could inform marketing strategies, product offerings, or other business decisions. For instance, customers in Cluster 5 might be targeted for budget-friendly premium offerings, while those in Cluster 2 might be offered luxury products.
