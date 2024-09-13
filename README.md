@@ -1,8 +1,11 @@
 # Customer_Segmentation-MallData-
 Jupyter Notebook Project  
 
-![clusters](https://github.com/user-attachments/assets/4006a914-3ea1-494b-a9a7-a27602c62dda)
+![clusters](https://github.com/user-attachments/assets/4006a914-3ea1-494b-a9a7-a27602c62dda)  
 
+ ## KMeans
+KMeans is a type of unsupervised machine learning algorithm used for clustering, which aims to divide a dataset into 
+𝑘 clusters (groups). Each cluster consists of data points that are more similar to each other compared to points in other clusters.
 
 ## Insights:  
 
