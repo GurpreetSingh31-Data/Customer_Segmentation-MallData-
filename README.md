@@ -5,7 +5,14 @@ Jupyter Notebook Project
 
  ## KMeans
 KMeans is a type of unsupervised machine learning algorithm used for clustering, which aims to divide a dataset into 
-𝑘 clusters (groups). Each cluster consists of data points that are more similar to each other compared to points in other clusters.
+𝑘 clusters (groups). Each cluster consists of data points that are more similar to each other compared to points in other clusters.  
+
+ ### Key Concepts of KMeans:
+**Clustering**: KMeans attempts to partition the dataset into 𝑘 clusters, where 𝑘 is a predefined number chosen by the user.  
+
+**Centroid**: Each cluster is represented by its centroid, which is the average of all data points in that cluster. The centroid acts as the center of the cluster.  
+
+**Distance Metric**: The algorithm typically uses Euclidean distance to measure the distance between data points and centroids. Data points are assigned to the cluster with the nearest centroid.  
 
 ## Insights:  
 
